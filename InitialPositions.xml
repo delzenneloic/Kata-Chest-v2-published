@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chess>
+	<board>
+		<pawns>
+			<pawn type="rook" color="light" position="a1"></pawn>
+			<pawn type="knight" color="light" position="b1"></pawn>
+			<pawn type="bishop" color="light" position="c1"></pawn>
+			<pawn type="king" color="light" position="d1"></pawn>
+			<pawn type="queen" color="light" position="e1"></pawn>
+			<pawn type="bishop" color="light" position="f1"></pawn>
+			<pawn type="knight" color="light" position="g1"></pawn>
+			<pawn type="rook" color="light" position="h1"></pawn>
+			<pawn type="pawn" color="light" position="a2"></pawn>
+			<pawn type="pawn" color="light" position="b2"></pawn>
+			<pawn type="pawn" color="light" position="c2"></pawn>
+			<pawn type="pawn" color="light" position="d2"></pawn>
+			<pawn type="pawn" color="light" position="e2"></pawn>
+			<pawn type="pawn" color="light" position="f2"></pawn>
+			<pawn type="pawn" color="light" position="g2"></pawn>
+			<pawn type="pawn" color="light" position="h2"></pawn>
+			<pawn type="rook" color="dark" position="a8"></pawn>
+			<pawn type="knight" color="dark" position="b8"></pawn>
+			<pawn type="bishop" color="dark" position="c8"></pawn>
+			<pawn type="king" color="dark" position="d8"></pawn>
+			<pawn type="queen" color="dark" position="e8"></pawn>
+			<pawn type="bishop" color="dark" position="f8"></pawn>
+			<pawn type="knight" color="dark" position="g8"></pawn>
+			<pawn type="rook" color="dark" position="h8"></pawn>
+			<pawn type="pawn" color="dark" position="a7"></pawn>
+			<pawn type="pawn" color="dark" position="b7"></pawn>
+			<pawn type="pawn" color="dark" position="c7"></pawn>
+			<pawn type="pawn" color="dark" position="d7"></pawn>
+			<pawn type="pawn" color="dark" position="e7"></pawn>
+			<pawn type="pawn" color="dark" position="f7"></pawn>
+			<pawn type="pawn" color="dark" position="g7"></pawn>
+			<pawn type="pawn" color="dark" position="h7"></pawn>
+		</pawns>
+	</board>
+</chess>
